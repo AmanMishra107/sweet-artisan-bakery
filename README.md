@@ -7,10 +7,13 @@
 [![Stars](https://img.shields.io/github/stars/AmanMishra107/sweet-artisan-bakery)](https://github.com/AmanMishra107/sweet-artisan-bakery/stargazers)
 
 <div align="center">
-  
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=F7C873&center=true&width=450&lines=Welcome+to+Sweet+Artisan+Bakery!;Delicious+Treats+Made+with+Love" alt="Typing SVG"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=F7C873&center=true&width=650&lines=Welcome+to+Sweet+Artisan+Bakery!;Delicious+Treats+Made+with+Love" 
+    alt="Typing SVG"
+    height="250"
+/>
 </div>
+
 
 ---
 
@@ -84,23 +87,6 @@ Visit `http://localhost:3000` in your browser.
 
 ---
 
-## 🖌️ Animation Effects
-
-- Lottie and CSS animations for delicious transitions.
-- Animated order confirmations and menu item reveals.
-- Typing effects using [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg).
-
----
-
-## 📸 Screenshots
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/cupcakes.jpg" width="350" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/macarons.jpg" width="350" style="margin:10px;"/>
-
-</div>
-
----
 
 ## 🤝 Contributing
 
