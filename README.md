@@ -95,8 +95,9 @@ Visit `http://localhost:3000` in your browser.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/screenshot-1.png" width="350" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/screenshot-2.png" width="350" style="margin:10px;"/>
+ <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/cupcakes.jpg" width="350" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/macarons.jpg" width="350" style="margin:10px;"/>
+
 </div>
 
 ---
