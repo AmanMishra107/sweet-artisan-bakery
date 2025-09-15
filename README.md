@@ -1,73 +1,131 @@
-# Welcome to your Lovable project
+# 🍰 Sweet Artisan Bakery
 
-## Project info
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/AmanMishra107/sweet-artisan-bakery/main.yml?branch=main)](https://github.com/AmanMishra107/sweet-artisan-bakery/actions)
+[![Issues](https://img.shields.io/github/issues/AmanMishra107/sweet-artisan-bakery)](https://github.com/AmanMishra107/sweet-artisan-bakery/issues)
+[![Forks](https://img.shields.io/github/forks/AmanMishra107/sweet-artisan-bakery)](https://github.com/AmanMishra107/sweet-artisan-bakery/network/members)
+[![Stars](https://img.shields.io/github/stars/AmanMishra107/sweet-artisan-bakery)](https://github.com/AmanMishra107/sweet-artisan-bakery/stargazers)
 
-**URL**: https://lovable.dev/projects/046b08d1-ee7e-4ef8-945f-89623116ec9a
+<div align="center">
+  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=F7C873&center=true&width=450&lines=Welcome+to+Sweet+Artisan+Bakery!;Delicious+Treats+Made+with+Love" alt="Typing SVG"/>
+</div>
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🎂 Overview
 
-**Use Lovable**
+Sweet Artisan Bakery is an elegant, feature-rich web application for managing and showcasing a bakery’s delightful menu. From mouth-watering cakes to fresh-baked breads, this platform lets you present your products beautifully, accept orders, and grow your business online.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/046b08d1-ee7e-4ef8-945f-89623116ec9a) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Features
 
-**Use your preferred IDE**
+- 🍩 **Animated UI** — Enjoy smooth transitions and delicious CSS animations for a delightful user experience!
+- 🥐 **Menu Management** — Easily add, edit, or remove bakery items.
+- 🍪 **Order Processing** — Seamless order placement and management.
+- 🧁 **Responsive Design** — Works perfectly on all devices.
+- 🎨 **Customizable Themes** — Match your brand’s unique style.
+- 📦 **Inventory Tracking** — Keep tabs on your stock.
+- 💬 **Customer Reviews** — Collect and display feedback.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Demo
 
-Follow these steps:
+> **Live Preview:** [sweet-artisan-bakery.vercel.app](https://sweet-artisan-bakery.vercel.app)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+
+---
+
+## 🏁 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/)
+- [Supabase Account](https://supabase.com/) (Sign up and create a new project)
+
+### Installation
+
+```bash
+git clone https://github.com/AmanMishra107/sweet-artisan-bakery.git
+cd sweet-artisan-bakery
+npm install
 ```
 
-**Edit a file directly in GitHub**
+### Supabase Setup
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. Create a project on [Supabase](https://app.supabase.com).
+2. Set up your database tables according to the `/supabase` schema or instructions in the project.
+3. Get your Supabase URL and public API key from your project dashboard.
+4. Create a `.env.local` file in the root directory and add:
+    ```
+    REACT_APP_SUPABASE_URL=your-supabase-url
+    REACT_APP_SUPABASE_KEY=your-anon-key
+    ```
+5. Start your application:
 
-**Use GitHub Codespaces**
+```bash
+npm start
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Visit `http://localhost:3000` in your browser.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🖌️ Animation Effects
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- Lottie and CSS animations for delicious transitions.
+- Animated order confirmations and menu item reveals.
+- Typing effects using [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg).
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/046b08d1-ee7e-4ef8-945f-89623116ec9a) and click on Share -> Publish.
+## 📸 Screenshots
 
-## Can I connect a custom domain to my Lovable project?
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/screenshot-1.png" width="350" style="margin:10px;"/>
+  <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/screenshot-2.png" width="350" style="margin:10px;"/>
+</div>
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🤝 Contributing
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Contributions are welcome! Please open issues or submit PRs for improvements and new features.
+
+1. Fork it 🍴
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+---
+
+## 📢 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💌 Connect
+
+- [Aman Mishra on GitHub](https://github.com/AmanMishra107)
+- [Email](mailto:amanmishra107@gmail.com)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmanMishra107/sweet-artisan-bakery/main/assets/footer-cake.gif" width="200" alt="Footer Animation"/>
+  <br>
+  <b>Made with ❤️ and lots of sugar!</b>
+</div>
